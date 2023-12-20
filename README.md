@@ -6,9 +6,7 @@ Página desenvolvida durante os cursos introdutórios de HTML e CSS da Alura, pe
 
 ## Demonstração
 
-<p align="center">
-  <img src="https://github.com/FernandoFranco06/portfolio/raw/main/assets/100961549/ccd89c03-b85e-47ad-8915-3a20f8cb823d.gif" alt="Demonstração do Projeto">
-</p>
+https://github.com/FernandoFranco06/portfolio/assets/100961549/470007f1-bf1d-4127-be19-98ecf5404185
 
 ## Tecnologias Utilizadas
 
